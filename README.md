@@ -1,7 +1,7 @@
-<img src="https://i0.wp.com/www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif?fit=800%2C474&ssl=1" alt="Girl in a jacket" width="500" height="600">
+<img src="https://i0.wp.com/www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif?fit=800%2C474&ssl=1" alt="Girl in a jacket" >
 <h1 align="center">Hi 👋, I'm Sandip Kumar Roy</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img src="https://www.cyanous.com/img/webdesign4.gif" alt="Girl in a jacket" width="500" height="600">
+<img src="https://www.cyanous.com/img/webdesign4.gif" alt="Girl in a jacket">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandip-kumar-roy" alt="sandip-kumar-roy" /></a> </p>
 
